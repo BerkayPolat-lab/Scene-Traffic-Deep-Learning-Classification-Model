@@ -1,8 +1,5 @@
 datasets1/
 scripts/
-clip_train.py
-scene_classification.ipynb
-transformer_train.py
 .pre-commit-config.yaml
 output
 myenv/
