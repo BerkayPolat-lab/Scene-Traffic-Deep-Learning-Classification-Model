@@ -195,3 +195,8 @@ def predict(model, image, transform):
 * [OpenAI CLIP](https://github.com/openai/CLIP)
 * [PyTorch ResNet & ViT](https://pytorch.org/vision/stable/models.html)
 * [Hugging Face Transformers](https://huggingface.co/docs/transformers)
+
+## 7. Acknowledgements 
+
+* This study was conducted as part of an internship at Ford Otosan. 
+
