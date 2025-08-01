@@ -1,5 +1,4 @@
-# Multi-Output & Multi-Label Classification Model - README (Markdown)
-
+# Multi-Output & Multi-Label Classification Model
 ## Overview
 
 This repository implements a **multi-output, multi-label image classification model** for road scene and traffic analysis. The project leverages:
